@@ -1,10 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Popa;Alex R.;;;
-FN:Alex R. Popa
+N:POPA;Alex R.;;;
+FN:Alex R. POPA • Eventi Immersivi
+ORG:Cena Criminis
 TITLE:Experience Architect
 TEL;TYPE=CELL,VOICE:+393921923752
 TEL;TYPE=CELL,MSG:+393921923752
-EMAIL;TYPE=INTERNET,WORK:sigillum.office@gmail.com
-NOTE:Experience Architect
+EMAIL;TYPE=INTERNET:SIGILLUM.OFFICE@GMAIL.COM
+URL:https://sigillumoffice.github.io/Sigillum-Office/
+NOTE:Experience Architect | Founder\, Cena Criminis | Immersive Experiences & Corporate Events | 9+ Years | 150+ Editions | 8\,000+ Participants | 50+ Countries | Bucharest · Timisoara · Vienna · Zurich · Rome
 END:VCARD
