@@ -4,3 +4,11 @@
   visibility:visible;
   opacity:1;
 }
+.scene.active{
+  visibility:visible;
+  opacity:1;
+}
+
+.stats{
+  column-gap:48px;
+}
