@@ -24,3 +24,12 @@ function nextScene() {
 }
 
 setTimeout(nextScene, timings[0]);
+const replayButton = document.getElementById("replay");
+
+if (replayButton) {
+  replayButton.addEventListener("click", () => {
+    current = 0;
+    showScene(0);
+    setTimeout(nextScene, timings[0]);
+  });
+}
