@@ -55,3 +55,26 @@
   width:min(560px,90vw);
   margin:0;
 }
+.s4 .portrait{
+  width:min(560px,90vw) !important;
+  height:auto !important;
+  margin:0 auto !important;
+  border-radius:0 !important;
+  overflow:visible !important;
+  background:none !important;
+  filter:none !important;
+}
+
+.s4 .portrait img{
+  display:block !important;
+  width:100% !important;
+  height:auto !important;
+  border-radius:0 !important;
+  filter:none !important;
+  opacity:1 !important;
+}
+
+.s4 .final{
+  width:min(560px,90vw) !important;
+  margin:0 auto !important;
+}
