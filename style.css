@@ -12,3 +12,18 @@
 .stats{
   column-gap:48px;
 }
+.portrait{
+  width:180px;
+  height:180px;
+  margin:0 auto 22px;
+  border-radius:50%;
+  overflow:hidden;
+}
+
+.portrait img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center 25%;
+}
